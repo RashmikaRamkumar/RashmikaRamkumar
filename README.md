@@ -1,4 +1,4 @@
-##  Hi there 👋 I'm Rashmika Ramkumar, an aspiring AI and ML enthusiast."
+##  Hi there 👋 I'm Rashmika Ramkumar, an aspiring AI and ML enthusiast.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px" />
   
@@ -70,6 +70,7 @@
 ---
 ### GitHub Stats:
 Here’s a quick snapshot of my **GitHub Activity**, including my contributions, streaks, and the languages I work with the most.
+<div align="center">
 <table>
   <tr>
     <td>
@@ -80,7 +81,7 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
     </td>
   </tr>
 </table>
-
+</div>
 [![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
@@ -101,7 +102,7 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
 
 ### Leetcode Stats
 
-Check out my **LeetCode ** stats to see my progress in problem-solving!
+Check out my **LeetCode** stats to see my progress in problem-solving!
 <p align="center">
   <a href="https://leetcode.com/rashmi2004" target="_blank">
     <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rashmi2004?ext=heatmap" />
