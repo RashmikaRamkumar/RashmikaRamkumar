@@ -1,5 +1,3 @@
-# Rashmika Ramkumar's Resume
-
 ## Hi there 👋 I'm Rashmika Ramkumar
 
 **Artificial Intelligence and Machine Learning**  
@@ -17,7 +15,7 @@
 
 ## Skills & Technologies
 
-### Programming Languages & Tools:
+### Programming Languages:
 <div>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
@@ -25,21 +23,47 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/terraform.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/markdown.png" />
 </div>
 
-### Tools I Use:
+### Frameworks & Libraries:
 <div>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
-  <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/express.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/fastapi.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/keras.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pytorch.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/scikit-learn.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/matplotlib.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/scipy.png" />
+</div>
+
+### Tools & Platforms:
+<div>
   <img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img height="50" width="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img height="50" width="50" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/gitlab.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/circleci.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/jwt.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/apache-kafka.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/apache-hadoop.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+</div>
+
+### Design & Collaboration:
+<div>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
 </div>
 
 ---
