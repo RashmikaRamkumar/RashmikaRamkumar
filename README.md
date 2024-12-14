@@ -102,7 +102,7 @@
     <img src="https://leetcard.jacoblin.cool/rashmi2004?theme=light&font=Baloo%202%20ExtraBold&ext=heatmap&border=1&radius=10" alt="LeetCode Stats" />
 </div>
 <br/>
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rashmi2004)](https://leetcode.com/rashmi2004)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
