@@ -82,18 +82,6 @@
 [![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
-<tr>
-    <td>
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
-      <img width="350px" src="https://github-contributor-stats.vercel.app/api?username=RashmikaRamkumar&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-    </td>
-  </tr>
-</table>
-
-![Stats Overview](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg)
-<table>
   <tr>
     <td>
       <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
