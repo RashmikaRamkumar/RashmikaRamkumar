@@ -2,6 +2,7 @@
 
 **Artificial Intelligence and Machine Learning Student**  
 
+
 - 🔭 I'm currently working on a **Deep Learning project** focused on plant disease classification.
 - 🌱 I’m currently learning **Data Structures and Algorithms** & **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
@@ -98,9 +99,9 @@
   </tr>
 </table>
 
+### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-![Stats Overview](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats-transparent/output/generated/languages.svg)
-</a>
+  
+![Stats Overview](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/languages.svg)
+
