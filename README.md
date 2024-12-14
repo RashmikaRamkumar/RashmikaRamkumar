@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rashmika Ramkumar
+##  Hi there 👋 I'm Rashmika Ramkumar, an aspiring AI and ML enthusiast."
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px" />
   
@@ -11,15 +11,14 @@
 
 
 - 🔭 I'm currently working on a **Deep Learning project** focused on plant disease classification.
-- 🌱 I’m currently learning **Data Structures and Algorithms** & **Cloud Computing**.
+- 🌱Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**."
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
+- 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Rende**r for deploying my projects
 - 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
 - 🎓 I am a **Microsoft Certified AI Engineer Associate**.
 
 
 ---
-
-
 
 ### I code in
 <div>
@@ -34,7 +33,8 @@
 
 </div>
 
-### Frameworks & Libraries:
+### I work with:
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vite,tailwind" />
@@ -49,7 +49,8 @@
 
 </div>
 
-### Tools & Platforms:
+### I use:
+
 <div>
     <img src="https://skillicons.dev/icons?i=netlify" />
   <img height="50" width="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -59,7 +60,8 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
 </div>
 
-### Design & Collaboration:
+### I design and collaborate with:
+
 <div>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
@@ -67,7 +69,7 @@
 
 ---
 ### GitHub Stats:
-
+Here’s a quick snapshot of my **GitHub Activity**, including my contributions, streaks, and the languages I work with the most.
 <table>
   <tr>
     <td>
@@ -98,6 +100,8 @@
 ---
 
 ### Leetcode Stats
+
+Check out my **LeetCode ** stats to see my progress in problem-solving!
 <p align="center">
   <a href="https://leetcode.com/rashmi2004" target="_blank">
     <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rashmi2004?ext=heatmap" />
