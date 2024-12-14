@@ -7,8 +7,9 @@
 
 
 
-**Artificial Intelligence and Machine Learning Student**  
+**🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology**
 
+🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟
 
 - 🔭 I'm currently working on a **Deep Learning project** focused on plant disease classification.
 - 🌱Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**."
