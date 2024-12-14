@@ -107,6 +107,12 @@
     <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rashmi2004" />
   </a>
 </p>
+<p align="center">
+  <a href="https://leetcode.com/rashmi2004" target="_blank">
+    <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rashmi2004?ext=heatmap" />
+  </a>
+</p>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
