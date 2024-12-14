@@ -54,10 +54,29 @@
 </div>
 
 ---
-## GitHub Stats 📊
+### GitHub Stats:
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&hide=TeX&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RashmikaRamkumar)](https://git.io/streak-stats)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+<table>
+  <tr>
+    <td>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaRamkumar&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+[![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<table>
+<tr>
+    <td>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img width="350px" src="https://github-contributor-stats.vercel.app/api?username=RashmikaRamkumar&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+    </td>
+  </tr>
+</table>
 
