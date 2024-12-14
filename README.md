@@ -8,32 +8,36 @@
 - 👯 I’m looking to collaborate on Machine Learning projects
 - 💬 Ask me about AI, Machine Learning, and Cloud Computing
 - 🎓 I am a **Microsoft Certified AI Engineer Associate**
-- 📫 How to reach me:
-  - | [LinkedIn](https://www.linkedin.com/in/rashmika-ramkumar-0b9572259)
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/rashmika-ramkumar-0b9572259)
 
-
+---
 
 ## Skills & Technologies
+
 ### Programming Languages:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/terraform.png" />
+<div>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/terraform.png" />
+</div>
 
 ### Tools I Use:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
-<img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
-<img height="50" width="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
-<img height="50" width="50" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+<div>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  <img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img height="50" width="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img height="50" width="50" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</div>
 
 ## Projects
 
@@ -62,4 +66,3 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/rashmika-ramku
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RashmikaRamkumar)](https://git.io/streak-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
