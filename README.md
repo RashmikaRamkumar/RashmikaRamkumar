@@ -7,7 +7,7 @@
   <strong>🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟</strong>
 </p>
 
-- 🔭 I'm currently working on a **Deep Learning project** focused on **plant disease classification**.
+- 🔭 I'm currently working on a **Deep Learning project** focused on **Epileptic seizure detection**.
 - 🌱 Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
