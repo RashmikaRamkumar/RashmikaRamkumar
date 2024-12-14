@@ -7,8 +7,15 @@
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
 - 🎓 I am a **Microsoft Certified AI Engineer Associate**.
-- 📫 How to reach me:  
-  - | [LinkedIn](https://www.linkedin.com/in/rashmika-ramkumar-0b9572259)
+- 📫 Connect with me<p align="left">
+<a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmika-ramkumar-0b9572259" height="30" width="40" /></a>
+
+<a href="https://kaggle.com/rashmikakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rashmikakr" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/rashmikakr_22aim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashmikakr_22aim" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/rashmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rashmi2004" height="30" width="40" /></a>
+</p>
 
 ---
 
