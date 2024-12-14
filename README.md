@@ -92,12 +92,21 @@
   </tr>
 </table>
 
-### 📊 Github Stats
-
 ![Stats Overview](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/languages.svg)
+<table>
+  <tr>
+    <td>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+    <td style="text-align:center;">
+      <img width="350px" src="https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg" alt="Stats Overview" />
+    </td>
+    <td>
+      <img width="350px" src="https://github-contributor-stats.vercel.app/api?username=RashmikaRamkumar&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+    </td>
+  </tr>
+</table>
 
-v
 <h2 align="center">📈 LeetCode Status 📈</h2>
 <br/>
 <div align="center">
