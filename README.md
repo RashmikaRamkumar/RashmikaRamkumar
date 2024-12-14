@@ -1,31 +1,20 @@
 ## Hi there 👋 I'm Rashmika Ramkumar
 <a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" ><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
 <a href="https://kaggle.com/rashmikakr" ><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+
 
 
 **Artificial Intelligence and Machine Learning Student**  
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
 - 🔭 I'm currently working on a **Deep Learning project** focused on plant disease classification.
 - 🌱 I’m currently learning **Data Structures and Algorithms** & **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
 - 🎓 I am a **Microsoft Certified AI Engineer Associate**.
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h3 style="margin: 0;">Connect with me</h3>
-  <a href="https://kaggle.com/rashmikakr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rashmikakr" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rashmikakr_22aim" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashmikakr_22aim" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/rashmi2004" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rashmi2004" height="30" width="40" />
-  </a>
-</div>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
 
 ---
 
