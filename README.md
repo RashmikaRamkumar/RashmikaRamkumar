@@ -24,39 +24,27 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/markdown.png" />
+    <img src="https://skillicons.dev/icons?i=terraform" />
+
 </div>
 
 ### Frameworks & Libraries:
 <div>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/express.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/fastapi.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/keras.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pytorch.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/scikit-learn.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/matplotlib.png" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/scipy.png" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv"/>
 </div>
 
 ### Tools & Platforms:
 <div>
-  <img height="50" width="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=netlify" />
   <img height="50" width="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img height="50" width="50" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql.png" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/gitlab.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/circleci.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/jwt.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/apache-kafka.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/apache-hadoop.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
 </div>
 
