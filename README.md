@@ -1,13 +1,7 @@
 ## Hi there 👋 I'm Rashmika Ramkumar
 
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" ><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-  <a href="https://kaggle.com/rashmikakr" ><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
-</div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px" />
-  
 **🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology**
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px" />
 
 <p align="center">
   <strong>🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟</strong>
@@ -18,6 +12,14 @@
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
 - 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
+  
+**Connect with me**
+    <a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" >
+      <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="25px"/>
+    </a>
+    <a href="https://kaggle.com/rashmikakr" >
+      <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="25px"/>
+    </a>
 
 ---
 
