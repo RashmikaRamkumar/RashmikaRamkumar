@@ -1,27 +1,17 @@
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&hide=TeX&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RashmikaRamkumar)](https://git.io/streak-stats)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
 ## Hi there 👋 I'm Rashmika Ramkumar
 
-**Artificial Intelligence and Machine Learning**
+**Artificial Intelligence and Machine Learning**  
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=790b7611ow9im0gumx9rbs9l9cut3fyaxowrum01od7gztya&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I'm currently working on a Deep Learning project
 - 🌱 I’m currently learning Data Structures and Algorithms & Cloud Computing
 - 👯 I’m looking to collaborate on Machine Learning projects
-- 🤔 I’m looking for help with placements in FAANG
 - 💬 Ask me about AI, Machine Learning, and Cloud Computing
+- 🎓 I am a **Microsoft Certified AI Engineer Associate**
 - 📫 How to reach me:
-  - [Twitter](https://twitter.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/rashmika-ramkumar-0b9572259)
-# Rashmika Ramkumar
+  - | [LinkedIn](https://www.linkedin.com/in/rashmika-ramkumar-0b9572259)
 
-## About Me
-Hi, I'm Rashmika, an enthusiastic **Artificial Intelligence and Machine Learning** student with a passion for **Machine Learning**, **Cloud Computing**, and **Data Structures & Algorithms**. I'm always exploring new technologies and working on exciting projects. I enjoy participating in hackathons, coding challenges, and contributing to open-source projects. Currently, I am focused on deep learning, and I aim to make a significant impact in the tech world.
+
 
 ## Skills & Technologies
 ### Programming Languages:
@@ -67,12 +57,9 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/rashmika-ramku
 
 ---
 
-### Top Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmika-ramkumar&layout=compact&langs_count=6&hide=html,css)
-
-### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashmika-ramkumar&show_icons=true&hide_title=true&count_private=true)
-
-### Contribution Streak:
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashmika-ramkumar)
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&hide=TeX&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RashmikaRamkumar)](https://git.io/streak-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
