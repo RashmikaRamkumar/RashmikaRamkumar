@@ -13,10 +13,12 @@
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
 - 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
   
-**Connect with me**
+**Connect with me :**
+  &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" >
       <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="25px"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://kaggle.com/rashmikakr" >
       <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="25px"/>
     </a>
