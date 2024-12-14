@@ -97,3 +97,18 @@
 ![Stats Overview](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/languages.svg)
 
+v
+<h2 align="center">📈 LeetCode Status 📈</h2>
+<br/>
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/rashmi2004?theme=light&font=Baloo%202%20ExtraBold&ext=heatmap&border=1&radius=10" alt="LeetCode Stats" />
+</div>
+<br/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RashmikaRamkumar/RashmikaRamkumar/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
