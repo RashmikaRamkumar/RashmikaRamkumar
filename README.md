@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Rashmika Ramkumar
 
-**Artificial Intelligence and Machine Learning**  
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=790b7611ow9im0gumx9rbs9l9cut3fyaxowrum01od7gztya&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+**Artificial Intelligence and Machine Learning Student**  
 
 - 🔭 I'm currently working on a **Deep Learning project** focused on plant disease classification.
 - 🌱 I’m currently learning **Data Structures and Algorithms** & **Cloud Computing**.
@@ -61,4 +60,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&hide=TeX&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RashmikaRamkumar)](https://git.io/streak-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
