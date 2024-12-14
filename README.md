@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rashmika Ramkumar
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" ><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+
+<a href="https://kaggle.com/rashmikakr" ><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
 **Artificial Intelligence and Machine Learning Student**  
@@ -16,9 +16,6 @@
 - 🎓 I am a **Microsoft Certified AI Engineer Associate**.
 <div style="display: flex; align-items: center; gap: 10px;">
   <h3 style="margin: 0;">Connect with me</h3>
-  <a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmika-ramkumar-0b9572259" height="30" width="40" />
-  </a>
   <a href="https://kaggle.com/rashmikakr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rashmikakr" height="30" width="40" />
   </a>
