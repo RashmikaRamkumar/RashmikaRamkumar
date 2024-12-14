@@ -97,16 +97,6 @@
 
 
 <h2 align="center">📈 LeetCode Status 📈</h2>
-<br/>
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/rashmi2004?theme=light&font=Baloo%202%20ExtraBold&ext=heatmap&border=1&radius=10" alt="LeetCode Stats" />
-</div>
-<br/>
-<p align="center">
-  <a href="https://leetcode.com/rashmi2004" target="_blank">
-    <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rashmi2004" />
-  </a>
-</p>
 <p align="center">
   <a href="https://leetcode.com/rashmi2004" target="_blank">
     <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rashmi2004?ext=heatmap" />
