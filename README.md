@@ -71,6 +71,8 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/canva.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
 </div>
+<!--START_SECTION:Code and Project Insights-->
+<!--END_SECTION:Code and Project Insights-->
 
 ---
 ### GitHub Stats:
@@ -87,6 +89,8 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
   </tr>
 </table>
 </div>
+<!--START_SECTION:Productivity Metrics-->
+<!--END_SECTION:Productivity Metrics-->
 
 [![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -113,6 +117,9 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 </p>
 
 <div align="center">
+  <!--START_SECTION:Environment and Tools-->
+<!--END_SECTION:Environment and Tools-->
+---
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
