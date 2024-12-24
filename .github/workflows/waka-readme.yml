@@ -15,3 +15,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"  # Show lines of code written
+          SHOW_TOTAL_CODE_TIME: "True"  # Show total code time
+          SHOW_PROFILE_VIEWS: "True"  # Show profile views
+          SHOW_LOC_CHART: "False"  # Hide the lines of code chart
+          SYMBOL_VERSION: "2"  # Set the symbol version for the progress bar to 2
