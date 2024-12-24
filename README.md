@@ -72,6 +72,55 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
 </div>
 <!--START_SECTION:Code and Project Insights-->
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-262-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 106.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 333 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     45 mins             ███████████████████░░░░░░   77.53 % 
+Text                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+
+🐱‍💻 Projects: 
+java-sem                 45 mins             ████████████████████░░░░░   78.10 % 
+docker-actus-rf20        7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+actus-userguides         4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+actus-documentation      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
+Jupyter Notebook         5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RashmikaRamkumar/RashmikaRamkumar/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/12/2024 08:18:25 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
