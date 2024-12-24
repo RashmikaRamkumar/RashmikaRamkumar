@@ -17,5 +17,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROFILE_VIEWS: "False"  # Show profile views
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"  # Hide the lines of code chart
           SYMBOL_VERSION: "3"  # Set the symbol version for the progress bar to 2
