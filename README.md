@@ -72,6 +72,8 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
 </div>
 
+---
+
 
 <!--START_SECTION:Code and Project Insights-->
 📊 **This Week I Spent My Time On** 
@@ -176,9 +178,10 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 </p>
 
 <div align="center">
+
 ---
 
-  
+
 <!--START_SECTION:Environment and Tools-->
 📊 **This Week I Spent My Time On** 
 
@@ -194,7 +197,3 @@ Windows                  58 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
  Last Updated on 24/12/2024 08:40:22 UTC
 <!--END_SECTION:Environment and Tools-->
 
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
