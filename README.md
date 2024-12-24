@@ -79,10 +79,10 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
 <table>
   <tr>
     <td>
-      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img  src="https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaRamkumar&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaRamkumar&theme=react&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
@@ -92,9 +92,6 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
 
 <table>
   <tr>
-    <td>
-      <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
     <td style="text-align:center;">
       <img width="500px" src="https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg" alt="Stats Overview" />
     </td>
