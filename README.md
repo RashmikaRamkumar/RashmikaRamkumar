@@ -120,7 +120,7 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
   </tr>
 </table>
 </div>
-
+---
 
 <!--START_SECTION:Productivity Metrics-->
 **I'm a Night 🦉** 
@@ -148,6 +148,8 @@ Sunday                   62 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 24/12/2024 08:44:45 UTC
 <!--END_SECTION:Productivity Metrics-->
 
+---
+
 
 [![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -174,6 +176,8 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 </p>
 
 <div align="center">
+---
+
   
 <!--START_SECTION:Environment and Tools-->
 📊 **This Week I Spent My Time On** 
