@@ -122,6 +122,7 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
   </tr>
 </table>
 </div>
+
 ---
 
 <!--START_SECTION:Productivity Metrics-->
