@@ -72,55 +72,6 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
 </div>
 <!--START_SECTION:Code and Project Insights-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-262-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 106.0 kB Used in GitHub's Storage 
- > 
-> 🏆 333 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     45 mins             ███████████████████░░░░░░   77.53 % 
-Text                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-
-🐱‍💻 Projects: 
-java-sem                 45 mins             ████████████████████░░░░░   78.10 % 
-docker-actus-rf20        7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-actus-userguides         4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-actus-documentation      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-Jupyter Notebook         5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/RashmikaRamkumar/RashmikaRamkumar/main/assets/bar_graph.png)
-
-
- Last Updated on 24/12/2024 08:18:25 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
@@ -139,55 +90,6 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
 </table>
 </div>
 <!--START_SECTION:Productivity Metrics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-262-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 106.0 kB Used in GitHub's Storage 
- > 
-> 🏆 324 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-🌆 Daytime                145 commits         ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 Evening                174 commits         ██████████░░░░░░░░░░░░░░░   39.01 % 
-🌙 Night                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   122 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Wednesday                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Thursday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Saturday                 103 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Sunday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/RashmikaRamkumar/RashmikaRamkumar/main/assets/bar_graph.png)
-
-
- Last Updated on 24/12/2024 08:21:28 UTC
 <!--END_SECTION:Productivity Metrics-->
 
 [![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -215,9 +117,12 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 </p>
 
 <div align="center">
-  <!--START_SECTION:Environment and Tools-->
+  
+<!--START_SECTION:Environment and Tools-->
 <!--END_SECTION:Environment and Tools-->
----
+
+
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
