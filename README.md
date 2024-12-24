@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Rashmika Ramkumar
-
-**🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology**
+<p align="center">
+🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
+</p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px" />
 
-<p align="center">
-  <strong>🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟</strong>
-</p>
 
+- <strong>🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟</strong>
 - 🔭 I'm currently working on a **Deep Learning project** focused on **Epileptic seizure detection**.
 - 🌱 Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
@@ -58,8 +57,8 @@
 
 <div>
     <img src="https://skillicons.dev/icons?i=netlify" />
-  <img height="50" width="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img height="50" width="50" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img height="50" width="55" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img height="50" width="55" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
