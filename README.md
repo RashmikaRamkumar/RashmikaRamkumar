@@ -79,13 +79,10 @@
 
 ```text
 💬 Programming Languages: 
-Text                     7 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.94 % 
-Markdown                 5 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.06 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-docker-actus-rf20        7 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.94 % 
-actus-userguides         4 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.78 % 
-actus-documentation      1 min               ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.28 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +98,7 @@ Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 28/12/2024 18:40:18 UTC
+ Last Updated on 29/12/2024 18:39:40 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
