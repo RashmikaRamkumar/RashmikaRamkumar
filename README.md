@@ -75,30 +75,7 @@
 
 
 <!--START_SECTION:Code and Project Insights-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               13 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.24 % 
-Jupyter Notebook         5 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.71 % 
-Python                   4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.76 % 
-TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.88 % 
-Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.94 % 
-```
-
-
-
-
- Last Updated on 30/12/2024 18:42:34 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
@@ -120,29 +97,7 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
 ---
 
 <!--START_SECTION:Productivity Metrics-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                65 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.29 % 
-🌆 Daytime                154 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.85 % 
-🌃 Evening                174 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.24 % 
-🌙 Night                  62 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.63 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   122 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.81 % 
-Tuesday                  48 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.55 % 
-Wednesday                19 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.18 % 
-Thursday                 56 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.31 % 
-Friday                   45 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.89 % 
-Saturday                 103 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.64 % 
-Sunday                   62 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.63 % 
-```
-
-
-
- Last Updated on 24/12/2024 08:44:45 UTC
 <!--END_SECTION:Productivity Metrics-->
 
 ---
@@ -178,17 +133,6 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 
 
 <!--START_SECTION:Environment and Tools-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 30/12/2024 18:44:37 UTC
 <!--END_SECTION:Environment and Tools-->
 
