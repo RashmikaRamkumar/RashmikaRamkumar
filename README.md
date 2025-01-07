@@ -22,6 +22,11 @@
       <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="25px"/>
     </a>
 
+
+<a href='https://www.linkedin.com/in/rashmika-ramkumar-0b9572259'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/RashmikaRamkumar/RashmikaRamkumar/main/assets/kaggle.svg" height='18px'/></a>
+
 ---
 
 ### I code in
