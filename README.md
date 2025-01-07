@@ -165,8 +165,8 @@ Sunday                   70 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 <table>
   <tr>
     <td style="text-align:center;">
-      <a href='https://github.com/RashmikaRamkumar/github-stats.git'>
-      <img width="500px" src="https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg" alt="Stats Overview" />
+      <a href='https://github.com/RashmikaRamkumar/githubstats.git'>
+      <img width="500px" src="https://raw.githubusercontent.com/RashmikaRamkumar/githubstats/output/generated/overview.svg" alt="Stats Overview" />
     </td>
     <td>
       <img width="500px" src="https://github-contributor-stats.vercel.app/api?username=RashmikaRamkumar&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
