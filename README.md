@@ -156,7 +156,9 @@ Sunday                   70 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 ![](https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
+<a href="https://github.com/RashmikaRamkumar/github-stats#gh-dark-mode-only">
+<img src="https://github.com/RashmikaRamkumar/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+</a>
 
 [![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
