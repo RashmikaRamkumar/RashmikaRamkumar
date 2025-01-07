@@ -161,6 +161,7 @@ Sunday                   70 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 <table>
   <tr>
     <td style="text-align:center;">
+      <a href='https://github.com/rahul-jha98/github-stats-transparent'>
       <img width="500px" src="https://raw.githubusercontent.com/RashmikaRamkumar/github-stats/output/generated/overview.svg" alt="Stats Overview" />
     </td>
     <td>
