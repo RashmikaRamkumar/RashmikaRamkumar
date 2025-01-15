@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=flask" />
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv"/>
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch " width="40" height="40"/>
 </a>
 
 </div>
