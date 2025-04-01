@@ -72,7 +72,7 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🏆 Achievements & Certifications
 <table>
   <tr>
     <td>
