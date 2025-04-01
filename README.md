@@ -72,6 +72,81 @@
 
 ---
 
+## 🏆 Achievements & Certifications
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/KEC_Hackathon'25-Winner-FF6F00?style=for-the-badge&logo=checkmarx&logoColor=white" alt="KEC_Hackathon'25 Winner"/>
+      </a>
+    </td>
+    <td>
+      First place winner at KEC Hackathon'25 a National Level Hackathon(30 hrs)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/KEC_Hackathon'24-Winner-FF6F00?style=for-the-badge&logo=checkmarx&logoColor=white" alt="KEC Hackathon'24 Winner"/>
+      </a>
+    </td>
+    <td>
+      First place winner at KEC Hackathon'24 (30 hrs)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/SIH_Internal_Hackathon-Winner-FF6F00?style=for-the-badge&logo=checkmarx&logoColor=white" alt="SIH Internal Hackathon Winner"/>
+      </a>
+    </td>
+    <td>
+      First place winner at SIH Internal Hackathon (2024)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Hacksphere'25-Runner_Up-0071C5?style=for-the-badge&logo=hackster&logoColor=white" alt="Hacksphere'25 Runner Up"/>
+      </a>
+    </td>
+    <td>
+      Second place in Hacksphere'25 24-hour hackathon
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Hacknovate'25-Runner_Up-0071C5?style=for-the-badge&logo=hackster&logoColor=white" alt="Hacknovate'25 Runner Up"/>
+      </a>
+    </td>
+    <td>
+      Second place in Hacknovate'25 24-hour hackathon
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Academic-Excellence_Award-20BEFF?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Excellence Award"/>
+      </a>
+    </td>
+    <td>
+      Received Academic Excellence Award (2023-2024)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Intel-Unnati_Program-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Unnati Program"/>
+      </a>
+    </td>
+    <td>
+      Participant in Intel Unnati Industrial Training Programme
+    </td>
+  </tr>
+</table>
+
+---
 
 <!--START_SECTION:Code and Project Insights-->
 📊 **This Week I Spent My Time On** 
