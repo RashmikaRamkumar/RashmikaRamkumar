@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rashmika Ramkumar
+## Hi there 👋 I'm Rashmika Ramkumar 
 <p align="center">
 🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
 </p>
