@@ -260,13 +260,13 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 
 ```text
 🔥 Editors: 
-Cursor                   12 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/04/2025 18:48:25 UTC
+ Last Updated on 22/04/2025 18:48:44 UTC
 <!--END_SECTION:Environment and Tools-->
 
