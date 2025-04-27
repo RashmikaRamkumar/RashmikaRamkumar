@@ -10,7 +10,7 @@
 - 🌱 Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
-- 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
+- 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.   
   
 **Connect with me :**
   &nbsp;&nbsp;
