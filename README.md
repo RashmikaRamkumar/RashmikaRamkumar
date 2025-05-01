@@ -21,7 +21,7 @@
     <a href="https://kaggle.com/rashmikakr"      >
       <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="25px"/>
     </a>
-
+    
 ---
 
 ### I code in
@@ -35,6 +35,7 @@
   <img src="https://skillicons.dev/icons?i=terraform" />
 
 </div>
+
 
 ### I work with:
 
