@@ -185,7 +185,7 @@ Java                     2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
       <img  src="https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaRamkumar&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+      <img  src="https://streak-stats.demolab.com/?user=RashmikaRamkumar&theme=dark" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
