@@ -122,7 +122,7 @@
       </a>
     </td>
     <td>
-      Second place in Hacknovate'25 24-hour hackathon
+      Second place in Hacknovate'25 24-hour hackathon 
     </td>
   </tr>
   <tr>
