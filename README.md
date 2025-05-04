@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rashmika Ramkumar 
 <p align="center">
-🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
+🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠  
 </p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px"  />
 
