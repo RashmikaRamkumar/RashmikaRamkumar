@@ -154,12 +154,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 29 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   99.47 % 
-Other                    0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.50 % 
-CSV                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.03 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kovai.co                 1 hr 30 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,7 +173,7 @@ Java                     2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 01/06/2025 18:45:22 UTC
+ Last Updated on 02/06/2025 18:49:39 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
