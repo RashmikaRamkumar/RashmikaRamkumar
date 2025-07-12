@@ -154,11 +154,10 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   78.42 % 
-TypeScript               2 mins              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Rashmika_Portfolio       9 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +173,7 @@ Java                     2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 11/07/2025 18:50:04 UTC
+ Last Updated on 12/07/2025 18:47:48 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
