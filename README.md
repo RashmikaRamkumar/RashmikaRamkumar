@@ -6,7 +6,7 @@
 
 
 - <strong>🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟</strong>
-- 🔭 I'm currently working on a **Deep Learning project** focused on **Epileptic seizure detection**.
+- 🔭 I'm currently working on **fine-tuning Large Language Models (LLMs)** for specialized downstream tasks.
 - 🌱 Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
