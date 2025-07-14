@@ -154,10 +154,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   85.33 % 
+Bash                     1 min               ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.67 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AttendanceSync           13 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   98.73 % 
+Attendance_KEC           0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,7 +175,7 @@ Java                     2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 13/07/2025 18:47:37 UTC
+ Last Updated on 14/07/2025 18:54:00 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
