@@ -150,16 +150,6 @@
 ---
 
 <!--START_SECTION:Code and Project Insights-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -173,7 +163,7 @@ Java                     2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 15/09/2025 18:46:18 UTC
+ Last Updated on 16/09/2025 18:45:54 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
