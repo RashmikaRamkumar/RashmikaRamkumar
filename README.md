@@ -154,10 +154,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               41 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Genlay-website           41 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,7 +173,7 @@ Java                     2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 20/11/2025 18:50:26 UTC
+ Last Updated on 21/11/2025 18:46:00 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 ---
