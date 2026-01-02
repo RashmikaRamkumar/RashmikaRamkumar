@@ -244,17 +244,7 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 
 
 <!--START_SECTION:Environment and Tools-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🔥 Editors: 
-VS Code                  52 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-💻 Operating System: 
-Windows                  52 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
-
- Last Updated on 01/01/2026 18:52:57 UTC
+ Last Updated on 02/01/2026 18:52:42 UTC
 <!--END_SECTION:Environment and Tools-->
 
