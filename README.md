@@ -262,6 +262,8 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 
 
 <!--START_SECTION:Environment and Tools-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2053%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -272,7 +274,13 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 19:44:40 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 27/07/2026 20:05:15 UTC
 <!--END_SECTION:Environment and Tools-->
 
